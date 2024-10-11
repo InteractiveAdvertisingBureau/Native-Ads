@@ -14,40 +14,24 @@
 
  An example bid response would look like
 
+```javascript
  {
-
- "id": "1234567890",
-
- "seatbid": \[{
-
- "bid": \[{
-
- "id": "1",
-
- "impid": "1",
-
- "price": 10,
-
- "nurl": "http://adserver.com/WinNoticeUrlThatReturnsNative1",
-
- "adm":"\<native response\>"
-
- },
-
- "bid": \[{
-
- "id": "2",
-
- "impid": "1",
-
- "price": 20,
-
- "nurl": "http://adserver.com/WinNoticeUrlThatReturnsNative2"
-
- "adm":"\<native response\>"
-
- }\]
-
- }\]
-
+   "id": "1234567890",
+   "seatbid": [{
+     "bid": [{
+     "id": "1",
+     "impid": "1",
+     "price": 10,
+     "nurl": "http://adserver.com/WinNoticeUrlThatReturnsNative1",
+     "adm":"<native response>"
+   },
+     "bid": \[{
+     "id": "2",
+     "impid": "1",
+     "price": 20,
+     "nurl": "http://adserver.com/WinNoticeUrlThatReturnsNative2"
+     "adm":"<native response>"
+   }]
+ }]
 }
+```
