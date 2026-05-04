@@ -1770,7 +1770,7 @@ context
   <tbody>
     <tr>
       <td><strong>1</strong></td>
-      <td>In the feed of content - for example as an item inside the organic feed/grid/listing/carousel.</td>
+      <td>In the feed of content - for example as an item inside the organic feed/grid/listing/carousel/in menu tile.</td>
     </tr>
     <tr>
       <td><strong>2</strong></td>
@@ -1778,7 +1778,7 @@ context
     </tr>
     <tr>
       <td><strong>3</strong></td>
-      <td>Outside the core content - for example in the ads section on the right rail, as a banner-style placement near the content, etc.</td>
+      <td>Outside the core content - for example in the ads section on the right rail, as a banner-style placement near the content, this could also be a headline banner on CTV devices, etc.</td>
     </tr>
     <tr>
       <td><strong>4</strong></td>
