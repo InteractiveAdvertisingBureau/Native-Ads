@@ -1898,6 +1898,13 @@ introduce new ones unique to that system.
       <td>text</td>
       <td>Optional. Max 15 or longer.</td>
     </tr>
+       <tr>
+      <td>13</td>
+      <td><strong>prodfeed</strong></td>
+      <td>A Product ID found in the <code>prodfeed</code> declared in the Extention Object: Prodfeed of the bid request.</td>
+      <td>text</td>
+      <td>Optional. Max 15 or longer.</td>
+    </tr>
     <tr>
       <td>500+</td>
       <td><Strong>XXX</Strong></td>
